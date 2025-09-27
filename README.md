@@ -11,6 +11,7 @@ Create Data
 
 Read Data
 
+
 Update Data
 
 Delete Data
@@ -22,4 +23,16 @@ Hanya bisa Read Data
 
 
 Sistem looping menu & error handling
+
+cara menjalanakan program
+1. Install Python (minimal versi 3.8)
+2. Clone repository ini atau download file .zip
+3. Buka terminal/cmd
+4. Jalankan program dengan perintah:
+   python main.py
+
+
+
+
+
 
